@@ -1,0 +1,23 @@
+body{
+    background: #4a3504;
+    background: linear-gradient(90deg, rgba(74, 53, 4, 1) 0%, rgba(181, 94, 18, 1) 51%, rgba(224, 193, 157, 1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+button{
+    margin-top: 20rem;
+    border: none;
+    scale: 5;
+    border-radius: 10%;
+    cursor: pointer;
+    box-shadow: 0 5px 10px #553620;
+}
+
+p{
+    font-family: monospace;
+    font-size: xx-large;
+    margin: 5rem;
+}
